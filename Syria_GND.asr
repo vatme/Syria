@@ -1,0 +1,237 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\SYAM\Documents\EuroScope\OSTT\OSTT_official.sct
+SECTORTITLE:OSTT_official.sct
+Airports:OJAI:name
+Airports:OJAM:name
+Airports:OJAQ:name
+Airports:OLBA:name
+Airports:OLKA:name
+Airports:OLRA:name
+Airports:OSAP:name
+Airports:OSDI:name
+Airports:OSDI:symbol
+Airports:OSDZ:name
+Airports:OSKL:name
+Airports:OSLK:name
+Airports:OSPR:name
+ARTCC boundary:F:
+ARTCC boundary:LTAA_E_2:
+ARTCC boundary:LTAA_S:
+ARTCC boundary:OJAC_CTR:
+ARTCC boundary:OSDI_TEST:
+ARTCC high boundary:DK_U:
+ARTCC high boundary:EDWWBM:
+ARTCC high boundary:ENBD_C_CTR:
+ARTCC high boundary:ENBD_S_CTR:
+ARTCC high boundary:ENOS_CTR:
+ARTCC high boundary:ENSV_N_CTR:
+ARTCC high boundary:ENSV_S_CTR:
+ARTCC high boundary:ES_F:
+ARTCC low boundary:OSAP_CTA:
+ARTCC low boundary:OSDI_CTA:
+ARTCC low boundary:OSLK_CTA:
+Free Text:OSDI stand 101\101:freetext
+Free Text:OSDI stand 102\102:freetext
+Free Text:OSDI stand 103\103:freetext
+Free Text:OSDI stand 104\104:freetext
+Free Text:OSDI stand 105\105:freetext
+Free Text:OSDI stand 106\106:freetext
+Free Text:OSDI stand 107\107:freetext
+Free Text:OSDI stand 108\108:freetext
+Free Text:OSDI stand 109\109:freetext
+Free Text:OSDI stand 110\110:freetext
+Free Text:OSDI stand 112\112:freetext
+Free Text:OSDI stand 114\114:freetext
+Free Text:OSDI stand 201\203:freetext
+Free Text:OSDI stand 202\203:freetext
+Free Text:OSDI stand 203\203:freetext
+Free Text:OSDI stand 204\204:freetext
+Free Text:OSDI stand 205\205:freetext
+Free Text:OSDI stand 301\301:freetext
+Free Text:OSDI stand 302\302:freetext
+Free Text:OSDI stand 303\303:freetext
+Free Text:OSDI stand 304\304:freetext
+Free Text:OSDI stand 305\305:freetext
+Free Text:OSDI stand 401\401:freetext
+Free Text:OSDI stand 402\403:freetext
+Free Text:OSDI stand 403\403:freetext
+Free Text:OSDI stand 404\404:freetext
+Free Text:OSDI stand 405\405:freetext
+Free Text:OSDI stand 406\406:freetext
+Free Text:OSDI stand 407\407:freetext
+Free Text:OSDI stand 408\408:freetext
+Free Text:OSDI stand 409\409:freetext
+Free Text:OSDI stand 410\410:freetext
+Free Text:OSDI stand 601\601:freetext
+Free Text:OSDI stand 602\602:freetext
+Free Text:OSDI stand 603\603:freetext
+Free Text:OSDI stand 604\604:freetext
+Free Text:OSDI stand 605\605:freetext
+Free Text:OSDI TWY\A:freetext
+Free Text:OSDI TWY\A1:freetext
+Free Text:OSDI TWY\A1:freetext
+Free Text:OSDI TWY\B:freetext
+Free Text:OSDI TWY\B1:freetext
+Free Text:OSDI TWY\C:freetext
+Free Text:OSDI TWY\C1:freetext
+Free Text:OSDI TWY\D:freetext
+Free Text:OSDI TWY\E:freetext
+Free Text:OSDI TWY\F:freetext
+Free Text:OSDI TWY\G:freetext
+Free Text:OSDI TWY\H:freetext
+Free Text:OSDI TWY\I:freetext
+Free Text:OSDI TWY\J:freetext
+Free Text:OSDI TWY\K:freetext
+Free Text:OSDI TWY\K:freetext
+Free Text:OSDI TWY\K:freetext
+Free Text:OSDI TWY\L:freetext
+Free Text:OSDI TWY\M:freetext
+Free Text:OSDI TWY\N:freetext
+Free Text:OSDI TWY\O:freetext
+Free Text:OSDI TWY\O:freetext
+Free Text:OSDI TWY\O:freetext
+Free Text:OSDI TWY\P:freetext
+Free Text:OSDI TWY\Q:freetext
+Free Text:OSDI TWY\R:freetext
+Free Text:OSDI TWY\S:freetext
+Free Text:OSDI TWY\T:freetext
+Free Text:OSDI TWY\U:freetext
+Geo:GEO:
+Geo:N055.04.06.684:
+Geo:N055.04.07.041:
+Geo:N055.04.07.906:
+Geo:N055.04.08.263:
+Geo:N055.04.08.318:
+Geo:N055.04.08.730:
+Geo:N055.04.08.771:
+Geo:N055.04.08.854:
+Geo:N055.04.08.867:
+Geo:N055.04.08.950:
+Geo:N055.04.09.032:
+Geo:N055.04.09.060:
+Geo:N055.04.09.183:
+Geo:N055.04.09.266:
+Geo:N055.04.09.375:
+Geo:N055.04.09.650:
+Geo:N055.04.09.705:
+Geo:N055.04.09.801:
+Geo:N055.04.10.708:
+Geo:N055.04.11.325:
+Geo:N055.04.11.490:
+Geo:N055.04.11.628:
+Geo:N055.04.11.889:
+Geo:N055.04.12.026:
+Geo:N055.04.12.520:
+Geo:N055.04.12.644:
+Geo:N055.04.12.850:
+Geo:N055.04.12.905:
+Geo:N055.04.12.932:
+Geo:N055.04.12.946:
+Geo:N055.04.13.070:
+Geo:N055.04.13.152:
+Geo:N055.04.13.221:
+Geo:N055.04.13.303:
+Geo:N055.04.13.495:
+Geo:N055.04.13.523:
+Geo:N055.04.13.715:
+Geo:N055.04.14.223:
+Geo:N055.04.14.566:
+Geo:N055.04.14.580:
+Geo:N055.04.14.786:
+Geo:N055.04.15.033:
+Geo:N055.04.15.363:
+High airways:A21:line
+High airways:B544:line
+High airways:G202:line
+High airways:J222:line
+High airways:R655:line
+High airways:R785:line
+High airways:UB402:line
+High airways:UL601:line
+High airways:UL602:line
+High airways:UP975:line
+High airways:UR219:line
+Regions:6592100:polygon
+Regions:AHAP:polygon
+Regions:AHBASE:polygon
+Regions:AHBUILD:polygon
+Regions:AHGRAS:polygon
+Regions:AHISL:polygon
+Regions:AHRWY:polygon
+Regions:AHTERM:polygon
+Regions:AHTWY:polygon
+Regions:Apron_4:polygon
+Regions:Apron_5:polygon
+Regions:Aprons_1-2-3-6:polygon
+Regions:BIAP:polygon
+Regions:BIBASE:polygon
+Regions:BIBUILD:polygon
+Regions:BIISL:polygon
+Regions:BIRWY:polygon
+Regions:BITERM:polygon
+Regions:BITWY:polygon
+Regions:BITWY:polygon
+Regions:CPHAP:polygon
+Regions:CPHBUILD:polygon
+Regions:CPHCON:polygon
+Regions:CPHEX:polygon
+Regions:CPHISL:polygon
+Regions:CPHR22:polygon
+Regions:CPHTERM:polygon
+Regions:CPHTWY:polygon
+Regions:EKEB:polygon
+Regions:EKRN:polygon
+Regions:EKSB:polygon
+Regions:EKSN:polygon
+Regions:EKTS:polygon
+Regions:EKVH:polygon
+Regions:On_Request_Apron:polygon
+Regions:On_Request_Apron_2:polygon
+Regions:OSDI_base:polygon
+Regions:OSDI_Building:polygon
+Regions:RWY1213:polygon
+Regions:RWY23L-05R:polygon
+Regions:RWY23R-05L:polygon
+Regions:Taxiway_Batch_1:polygon
+Regions:Taxiway_Batch_2:polygon
+Regions:Taxiway_Batch_3:polygon
+Regions:Taxiway_Batch_4:polygon
+Regions:Taxiway_Batch_5:polygon
+Regions:Taxiway_Batch_6:polygon
+Regions:YTAP:polygon
+Regions:YTBASE:polygon
+Regions:YTBUILD:polygon
+Regions:YTGRAS:polygon
+Regions:YTISL:polygon
+Regions:YTRWY:polygon
+Regions:YTTERM:polygon
+Regions:YTTWY:polygon
+Runways:OSDI Damascus International 05L-23R:name
+Runways:OSDI Damascus International 23L-05R:name
+VORs:ALE:symbol
+VORs:CAK:symbol
+VORs:ERN:symbol
+VORs:ERZ:symbol
+VORs:EZS:symbol
+VORs:GEM:symbol
+VORs:KHM:symbol
+VORs:KNY:symbol
+VORs:KSR:symbol
+VORs:MRD:symbol
+VORs:MZD:symbol
+VORs:PHA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:DATMAS
+WINDOWAREA:33.367997:36.417746:33.458532:36.616159

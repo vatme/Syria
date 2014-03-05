@@ -1,0 +1,27 @@
+Settings	sector	\OSTT_official.sct
+Settings	Settingsfile	\Settings\General.txt
+Settings	SettingsfileSYMBOLOGY	\Settings\Symbols.txt
+Settings	SettingsfileVOICE	\Settings\Frequencies.txt
+Settings	SettingsfilePROFILE	\Settings\LoginProfiles.txt
+Settings	SettingsfileTAGS	\Settings\Tags.txt
+Settings	SettingsfileSIL	\Settings\Lists.txt
+Settings	SettingsfileSEL	\Settings\Lists.txt
+Settings	SettingsfileDEP	\Settings\Lists.txt
+Settings	SettingsfileARR	\Settings\Lists.txt
+Settings	SettingsfileFP	\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\Settings\PluginSettings.txt
+Settings	SettingsfileSCREEN	\Settings\Screen.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3670016
+Voice	input_hardware	DirectSound - Mikrofon (2 — Generic USB Audio Device   )
+Voice	output_hardware	DirectSound - G³oœniki (2 — Generic USB Audio Device   )
+Voice	input_hardware2	Wave - Mikrofon (2 — Generic USB Audio
+Voice	output_hardware2	Wave - G³oœniki (2 — Generic USB Audio
+Voice	bass_filter	1
+Voice	PPPT	2686976
+Voice	SPPT	4587520
+Voice	squelch	186.3
+Voice	squelch2	119.7
+Settings	AtisFolder	\OSDI_ATIS\atisfiles.txt
+LastSession	atis4	Sector File in heavy testing, thank you for your patience.
+RecentFiles	Recent1	\Syria.asr
