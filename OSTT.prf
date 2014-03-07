@@ -13,15 +13,9 @@ Settings	SettingsfilePLUGINS	\Settings\PluginSettings.txt
 Settings	SettingsfileSCREEN	\Settings\Screen.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3670016
-Voice	input_hardware	DirectSound - Mikrofon (2 — Generic USB Audio Device   )
-Voice	output_hardware	DirectSound - G³oœniki (2 — Generic USB Audio Device   )
-Voice	input_hardware2	Wave - Mikrofon (2 — Generic USB Audio
-Voice	output_hardware2	Wave - G³oœniki (2 — Generic USB Audio
-Voice	bass_filter	1
-Voice	PPPT	2686976
-Voice	SPPT	4587520
-Voice	squelch	186.3
-Voice	squelch2	119.7
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
 Settings	AtisFolder	\OSDI_ATIS\atisfiles.txt
-LastSession	atis4	Sector File in heavy testing, thank you for your patience.
 RecentFiles	Recent1	\Syria.asr
