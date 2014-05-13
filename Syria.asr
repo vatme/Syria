@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\SYAM\Documents\EuroScope\OSTT\OSTT_official.sct
+SECTORFILE:\OSTT_official.sct
 SECTORTITLE:OSTT_official.sct
 Airports:OJAI:name
 Airports:OJAM:name
@@ -16,22 +16,174 @@ Airports:OSDZ:name
 Airports:OSKL:name
 Airports:OSLK:name
 Airports:OSPR:name
-ARTCC boundary:F:
-ARTCC boundary:LTAA_E_2:
-ARTCC boundary:LTAA_S:
-ARTCC boundary:OJAC_CTR:
-ARTCC boundary:OSDI_TEST:
-ARTCC high boundary:DK_U:
-ARTCC high boundary:EDWWBM:
-ARTCC high boundary:ENBD_C_CTR:
-ARTCC high boundary:ENBD_S_CTR:
-ARTCC high boundary:ENOS_CTR:
-ARTCC high boundary:ENSV_N_CTR:
-ARTCC high boundary:ENSV_S_CTR:
-ARTCC high boundary:ES_F:
 ARTCC low boundary:OSAP_CTA:
 ARTCC low boundary:OSDI_CTA:
 ARTCC low boundary:OSLK_CTA:
+Fixes:3336E:name
+Fixes:3336E:symbol
+Fixes:3337E:name
+Fixes:3337E:symbol
+Fixes:3338E:name
+Fixes:3338E:symbol
+Fixes:3436E:name
+Fixes:3436E:symbol
+Fixes:3437E:name
+Fixes:3437E:symbol
+Fixes:3438E:name
+Fixes:3438E:symbol
+Fixes:3439E:name
+Fixes:3439E:symbol
+Fixes:3440E:name
+Fixes:3440E:symbol
+Fixes:3536E:name
+Fixes:3536E:symbol
+Fixes:3537E:name
+Fixes:3537E:symbol
+Fixes:3538E:name
+Fixes:3538E:symbol
+Fixes:3539E:name
+Fixes:3539E:symbol
+Fixes:3540E:name
+Fixes:3540E:symbol
+Fixes:3541E:name
+Fixes:3541E:symbol
+Fixes:3636E:name
+Fixes:3636E:symbol
+Fixes:3637E:name
+Fixes:3637E:symbol
+Fixes:3638E:name
+Fixes:3638E:symbol
+Fixes:3639E:name
+Fixes:3639E:symbol
+Fixes:3640E:name
+Fixes:3640E:symbol
+Fixes:3641E:name
+Fixes:3641E:symbol
+Fixes:3738E:name
+Fixes:3738E:symbol
+Fixes:3740E:name
+Fixes:3740E:symbol
+Fixes:3741E:name
+Fixes:3741E:symbol
+Fixes:3742E:name
+Fixes:3742E:symbol
+Fixes:ABBAS:name
+Fixes:ABBAS:symbol
+Fixes:ADRA:name
+Fixes:ADRA:symbol
+Fixes:ASLON:name
+Fixes:ASLON:symbol
+Fixes:BASEM:name
+Fixes:BASEM:symbol
+Fixes:BRAVO:name
+Fixes:BRAVO:symbol
+Fixes:BUSRA:name
+Fixes:BUSRA:symbol
+Fixes:DAPUK:name
+Fixes:DAPUK:symbol
+Fixes:DAXEN:name
+Fixes:DAXEN:symbol
+Fixes:DELTA:name
+Fixes:DELTA:symbol
+Fixes:DESHE:name
+Fixes:DESHE:symbol
+Fixes:ELEXI:name
+Fixes:ELEXI:symbol
+Fixes:FIRAS:name
+Fixes:FIRAS:symbol
+Fixes:GIBOX:name
+Fixes:GIBOX:symbol
+Fixes:GOLF:name
+Fixes:GOLF:symbol
+Fixes:KAMEL:name
+Fixes:KAMEL:symbol
+Fixes:KAREM:name
+Fixes:KAREM:symbol
+Fixes:KILIS:name
+Fixes:KILIS:symbol
+Fixes:KILO:name
+Fixes:KILO:symbol
+Fixes:KODER:name
+Fixes:KODER:symbol
+Fixes:KUMLO:name
+Fixes:KUMLO:symbol
+Fixes:KUPRI:name
+Fixes:KUPRI:symbol
+Fixes:LATEB:name
+Fixes:LATEB:symbol
+Fixes:LEBOR:name
+Fixes:LEBOR:symbol
+Fixes:LEKRO:name
+Fixes:LEKRO:symbol
+Fixes:LESRI:name
+Fixes:LESRI:symbol
+Fixes:LIMA:name
+Fixes:LIMA:symbol
+Fixes:LOSAR:name
+Fixes:LOSAR:symbol
+Fixes:LOTAX:name
+Fixes:LOTAX:symbol
+Fixes:LUBAM:name
+Fixes:LUBAM:symbol
+Fixes:MALLA:name
+Fixes:MALLA:symbol
+Fixes:MILBA:name
+Fixes:MILBA:symbol
+Fixes:MODIK:name
+Fixes:MODIK:symbol
+Fixes:MURAK:name
+Fixes:MURAK:symbol
+Fixes:NADEK:name
+Fixes:NADEK:symbol
+Fixes:NAMBO:name
+Fixes:NAMBO:symbol
+Fixes:NIKAS:name
+Fixes:NIKAS:symbol
+Fixes:NISAP:name
+Fixes:NISAP:symbol
+Fixes:NOVMR:name
+Fixes:NOVMR:symbol
+Fixes:ORNAL:name
+Fixes:ORNAL:symbol
+Fixes:RAFIF:name
+Fixes:RAFIF:symbol
+Fixes:RDIMA:name
+Fixes:RDIMA:symbol
+Fixes:SALIM:name
+Fixes:SALIM:symbol
+Fixes:SIDNA:name
+Fixes:SIDNA:symbol
+Fixes:SOFIA:name
+Fixes:SOFIA:symbol
+Fixes:SOKAN:name
+Fixes:SOKAN:symbol
+Fixes:SULAF:name
+Fixes:SULAF:symbol
+Fixes:SWIDA:name
+Fixes:SWIDA:symbol
+Fixes:TABQA:name
+Fixes:TABQA:symbol
+Fixes:TANGO:name
+Fixes:TANGO:symbol
+Fixes:TUDMU:name
+Fixes:TUDMU:symbol
+Fixes:TUNLA:name
+Fixes:TUNLA:symbol
+Fixes:TUSYR:name
+Fixes:TUSYR:symbol
+Fixes:ZELAF:name
+Fixes:ZELAF:symbol
+Free Text:Group\LCCC:freetext
+Free Text:Group\LLLL:freetext
+Free Text:Group\LTAA:freetext
+Free Text:Group\LTAA:freetext
+Free Text:Group\OJAC:freetext
+Free Text:Group\OJAC:freetext
+Free Text:Group\OLBB:freetext
+Free Text:Group\OLBB:freetext
+Free Text:Group\ORBB:freetext
+Free Text:Group\ORBB:freetext
+Free Text:Group\OSTT:freetext
 Free Text:OSDI stand 101\101:freetext
 Free Text:OSDI stand 102\102:freetext
 Free Text:OSDI stand 103\103:freetext
@@ -142,110 +294,83 @@ Geo:N055.04.14.580:
 Geo:N055.04.14.786:
 Geo:N055.04.15.033:
 Geo:N055.04.15.363:
+Geo:N055.44.36.928 E009.08.43.474:
+Geo:N055.44.38.315 E009.08.43.337:
+Geo:N055.44.38.700 E009.08.56.359:
 High airways:A21:line
+High airways:A21:name
+High airways:A412:line
+High airways:A412:name
+High airways:B538:line
+High airways:B538:name
 High airways:B544:line
+High airways:B544:name
 High airways:G202:line
+High airways:G202:name
+High airways:J14:line
+High airways:J14:name
 High airways:J222:line
+High airways:J222:name
+High airways:L200:line
+High airways:L200:name
+High airways:L513:line
+High airways:L513:name
+High airways:Q52:line
+High airways:Q52:name
 High airways:R655:line
+High airways:R655:name
 High airways:R785:line
-High airways:UB402:line
+High airways:R785:name
+High airways:UB36:line
+High airways:UB36:name
+High airways:UL572:line
+High airways:UL572:name
+High airways:UL573:line
+High airways:UL573:name
 High airways:UL601:line
-High airways:UL602:line
+High airways:UL601:name
+High airways:UL768:line
+High airways:UL768:name
+High airways:UM449:line
+High airways:UM449:name
+High airways:UM690:line
+High airways:UM690:name
+High airways:UM861:line
+High airways:UM861:name
 High airways:UP975:line
-High airways:UR219:line
+High airways:UP975:name
+High airways:UR785:line
+High airways:UR785:name
+High airways:UW719:line
+High airways:UW719:name
+High airways:W5:line
+High airways:W5:name
+High airways:W6:line
+High airways:W6:name
 NDBs:ABD:frequency
 NDBs:ABD:name
 NDBs:ABD:symbol
-NDBs:ADA:frequency
-NDBs:ADA:name
-NDBs:ADA:symbol
 NDBs:ALE:frequency
 NDBs:ALE:name
 NDBs:ALE:symbol
-NDBs:ANK:frequency
-NDBs:ANK:name
-NDBs:ANK:symbol
-NDBs:ARF:frequency
-NDBs:ARF:name
-NDBs:ARF:symbol
-NDBs:ARI:frequency
-NDBs:ARI:name
-NDBs:ARI:symbol
 NDBs:BAN:frequency
 NDBs:BAN:name
 NDBs:BAN:symbol
-NDBs:BAT:frequency
-NDBs:BAT:name
-NDBs:BAT:symbol
-NDBs:BGN:frequency
-NDBs:BGN:name
-NDBs:BGN:symbol
-NDBs:BOD:frequency
-NDBs:BOD:name
-NDBs:BOD:symbol
-NDBs:BUK:frequency
-NDBs:BUK:name
-NDBs:BUK:symbol
 NDBs:DAL:frequency
 NDBs:DAL:name
 NDBs:DAL:symbol
 NDBs:DRZ:frequency
 NDBs:DRZ:name
 NDBs:DRZ:symbol
-NDBs:DYB:frequency
-NDBs:DYB:name
-NDBs:DYB:symbol
-NDBs:ELG:frequency
-NDBs:ELG:name
-NDBs:ELG:symbol
-NDBs:ERH:frequency
-NDBs:ERH:name
-NDBs:ERH:symbol
-NDBs:ERN:frequency
-NDBs:ERN:name
-NDBs:ERN:symbol
-NDBs:GBI:frequency
-NDBs:GBI:name
-NDBs:GBI:symbol
-NDBs:GZP:frequency
-NDBs:GZP:name
-NDBs:GZP:symbol
 NDBs:HAS:frequency
 NDBs:HAS:name
 NDBs:HAS:symbol
-NDBs:HAY:frequency
-NDBs:HAY:name
-NDBs:HAY:symbol
-NDBs:HRZ:frequency
-NDBs:HRZ:name
-NDBs:HRZ:symbol
 NDBs:HTY:frequency
 NDBs:HTY:name
 NDBs:HTY:symbol
-NDBs:IRM:frequency
-NDBs:IRM:name
-NDBs:IRM:symbol
-NDBs:ISK:frequency
-NDBs:ISK:name
-NDBs:ISK:symbol
-NDBs:KAR:frequency
-NDBs:KAR:name
-NDBs:KAR:symbol
-NDBs:KHD:frequency
-NDBs:KHD:name
-NDBs:KHD:symbol
-NDBs:KHM:frequency
-NDBs:KHM:name
-NDBs:KHM:symbol
 NDBs:KML:frequency
 NDBs:KML:name
 NDBs:KML:symbol
-NDBs:KNY:frequency
-NDBs:KNY:name
-NDBs:KNY:symbol
-NDBs:KSR:frequency
-NDBs:KSR:name
-NDBs:KSR:symbol
 NDBs:KTN:frequency
 NDBs:KTN:name
 NDBs:KTN:symbol
@@ -258,75 +383,24 @@ NDBs:MEZ:symbol
 NDBs:MRD:frequency
 NDBs:MRD:name
 NDBs:MRD:symbol
-NDBs:MUS:frequency
-NDBs:MUS:name
-NDBs:MUS:symbol
-NDBs:PLR:frequency
-NDBs:PLR:name
-NDBs:PLR:symbol
-NDBs:RA:frequency
 NDBs:RA:frequency
 NDBs:RA:name
-NDBs:RA:name
 NDBs:RA:symbol
-NDBs:RA:symbol
-NDBs:RFH:frequency
-NDBs:RFH:name
-NDBs:RFH:symbol
-NDBs:SIV:frequency
-NDBs:SIV:name
-NDBs:SIV:symbol
-NDBs:SRT:frequency
-NDBs:SRT:name
-NDBs:SRT:symbol
-NDBs:TZK:frequency
-NDBs:TZK:name
-NDBs:TZK:symbol
-NDBs:URF:frequency
-NDBs:URF:name
-NDBs:URF:symbol
-NDBs:VAN:frequency
-NDBs:VAN:name
-NDBs:VAN:symbol
 Regions:6592100:polygon
-Regions:AHAP:polygon
-Regions:AHBASE:polygon
-Regions:AHBUILD:polygon
-Regions:AHGRAS:polygon
-Regions:AHISL:polygon
-Regions:AHRWY:polygon
-Regions:AHTERM:polygon
-Regions:AHTWY:polygon
 Regions:Apron_4:polygon
 Regions:Apron_5:polygon
 Regions:Aprons_1-2-3-6:polygon
-Regions:BIAP:polygon
-Regions:BIBASE:polygon
-Regions:BIBUILD:polygon
-Regions:BIISL:polygon
-Regions:BIRWY:polygon
-Regions:BITERM:polygon
-Regions:BITWY:polygon
-Regions:BITWY:polygon
 Regions:CPHAP:polygon
 Regions:CPHBUILD:polygon
 Regions:CPHCON:polygon
 Regions:CPHEX:polygon
 Regions:CPHISL:polygon
-Regions:CPHR22:polygon
 Regions:CPHTERM:polygon
 Regions:CPHTWY:polygon
-Regions:EKEB:polygon
-Regions:EKRN:polygon
-Regions:EKSB:polygon
-Regions:EKSN:polygon
-Regions:EKTS:polygon
-Regions:EKVH:polygon
 Regions:On_Request_Apron:polygon
 Regions:On_Request_Apron_2:polygon
 Regions:OSDI_base:polygon
 Regions:OSDI_Building:polygon
-Regions:RWY1213:polygon
 Regions:RWY23L-05R:polygon
 Regions:RWY23R-05L:polygon
 Regions:Taxiway_Batch_1:polygon
@@ -335,14 +409,6 @@ Regions:Taxiway_Batch_3:polygon
 Regions:Taxiway_Batch_4:polygon
 Regions:Taxiway_Batch_5:polygon
 Regions:Taxiway_Batch_6:polygon
-Regions:YTAP:polygon
-Regions:YTBASE:polygon
-Regions:YTBUILD:polygon
-Regions:YTGRAS:polygon
-Regions:YTISL:polygon
-Regions:YTRWY:polygon
-Regions:YTTERM:polygon
-Regions:YTTWY:polygon
 Runways:OSAP Aleppo International 09-27:centerline
 Runways:OSAP Aleppo International 09-27:extended centerline 1
 Runways:OSAP Aleppo International 09-27:extended centerline 1 left base
@@ -375,165 +441,30 @@ Runways:OSDI Damascus International 05L-23R:extended centerline 2 right base
 Runways:OSDI Damascus International 05L-23R:extended centerline 2 right ticks
 Runways:OSDI Damascus International 05L-23R:extended centerline 2 right vectoring
 Runways:OSDI Damascus International 05L-23R:name
-VORs:ADA:frequency
-VORs:ADA:name
-VORs:ADA:symbol
 VORs:ALE:frequency
 VORs:ALE:name
 VORs:ALE:symbol
-VORs:AMN:frequency
-VORs:AMN:name
-VORs:AMN:symbol
-VORs:AQB:frequency
-VORs:AQB:name
-VORs:AQB:symbol
-VORs:ARI:frequency
-VORs:ARI:name
-VORs:ARI:symbol
-VORs:BAG:frequency
-VORs:BAG:name
-VORs:BAG:symbol
-VORs:BAT:frequency
-VORs:BAT:name
-VORs:BAT:symbol
-VORs:BGD:frequency
-VORs:BGD:name
-VORs:BGD:symbol
-VORs:BGN:frequency
-VORs:BGN:name
-VORs:BGN:symbol
-VORs:BSA:frequency
-VORs:BSA:name
-VORs:BSA:symbol
-VORs:BUK:frequency
-VORs:BUK:name
-VORs:BUK:symbol
-VORs:CAK:frequency
-VORs:CAK:name
-VORs:CAK:symbol
 VORs:DAM:frequency
 VORs:DAM:name
 VORs:DAM:symbol
-VORs:DYB:frequency
-VORs:DYB:name
-VORs:DYB:symbol
-VORs:ELG:frequency
-VORs:ELG:name
-VORs:ELG:symbol
-VORs:ERH:frequency
-VORs:ERH:name
-VORs:ERH:symbol
-VORs:ERN:frequency
-VORs:ERN:name
-VORs:ERN:symbol
-VORs:ERZ:frequency
-VORs:ERZ:name
-VORs:ERZ:symbol
-VORs:EZN:frequency
-VORs:EZN:name
-VORs:EZN:symbol
-VORs:EZS:frequency
-VORs:EZS:name
-VORs:EZS:symbol
-VORs:GAP:frequency
-VORs:GAP:name
-VORs:GAP:symbol
-VORs:GAZ:frequency
-VORs:GAZ:name
-VORs:GAZ:symbol
-VORs:GEM:frequency
-VORs:GEM:name
-VORs:GEM:symbol
-VORs:GRY:frequency
-VORs:GRY:name
-VORs:GRY:symbol
 VORs:HTY:frequency
 VORs:HTY:name
 VORs:HTY:symbol
-VORs:IB:frequency
-VORs:IB:name
-VORs:IB:symbol
-VORs:KAD:frequency
-VORs:KAD:name
-VORs:KAD:symbol
-VORs:KHD:frequency
-VORs:KHD:name
-VORs:KHD:symbol
-VORs:KHM:frequency
-VORs:KHM:name
-VORs:KHM:symbol
-VORs:KNY:frequency
-VORs:KNY:name
-VORs:KNY:symbol
-VORs:KSR:frequency
-VORs:KSR:name
-VORs:KSR:symbol
 VORs:KTN:frequency
 VORs:KTN:name
 VORs:KTN:symbol
-VORs:LCA:frequency
-VORs:LCA:name
-VORs:LCA:symbol
-VORs:LOT:frequency
-VORs:LOT:name
-VORs:LOT:symbol
 VORs:LTK:frequency
 VORs:LTK:name
 VORs:LTK:symbol
 VORs:MRD:frequency
 VORs:MRD:name
 VORs:MRD:symbol
-VORs:MUS:frequency
-VORs:MUS:name
-VORs:MUS:symbol
-VORs:MUT:frequency
-VORs:MUT:name
-VORs:MUT:symbol
-VORs:MZD:frequency
-VORs:MZD:name
-VORs:MZD:symbol
-VORs:NAT:frequency
-VORs:NAT:name
-VORs:NAT:symbol
-VORs:OVD:frequency
-VORs:OVD:name
-VORs:OVD:symbol
-VORs:PHA:frequency
-VORs:PHA:name
-VORs:PHA:symbol
-VORs:QAA:frequency
-VORs:QAA:name
-VORs:QAA:symbol
-VORs:QTR:frequency
-VORs:QTR:name
-VORs:QTR:symbol
 VORs:ROP:frequency
 VORs:ROP:name
 VORs:ROP:symbol
-VORs:SIV:frequency
-VORs:SIV:name
-VORs:SIV:symbol
-VORs:SRT:frequency
-VORs:SRT:name
-VORs:SRT:symbol
 VORs:TAN:frequency
 VORs:TAN:name
 VORs:TAN:symbol
-VORs:TRF:frequency
-VORs:TRF:name
-VORs:TRF:symbol
-VORs:TZK:frequency
-VORs:TZK:name
-VORs:TZK:symbol
-VORs:URF:frequency
-VORs:URF:name
-VORs:URF:symbol
-VORs:VAN:frequency
-VORs:VAN:name
-VORs:VAN:symbol
-VORs:ZFR:frequency
-VORs:ZFR:name
-VORs:ZFR:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -546,4 +477,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:DATMAS
-WINDOWAREA:31.202724:30.820438:38.050605:46.281625
+WINDOWAREA:29.825248:28.820104:38.685365:48.146589
