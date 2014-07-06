@@ -25,7 +25,7 @@ Updating the AIRAC is necessary as airport airways, fixes, SIDs, and STARs chang
 
 1. Download the zip file of this sector file by clicking the Download Zip button on the right side.
 2. Extract the zip file anywhere on your computer.
-3. Open the extracted files and copy the DataFiles folder and OSTT_official.ese file. Go to your current sector file folder for OSTT and replace the DataFiles and .ese file with the ones you just copied. 
+3. Open the extracted files and copy the DataFiles folder, OSTT_official.ese, and OSTT_official.sct files and replace the same files in your current Syria folder.
 
 ##Support
 For support on sector files, contact the VATME Support Team at: http://vatme.net/support/
