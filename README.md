@@ -1,33 +1,25 @@
-Syria
-=====
+# Syria Controller Pack
+Syrian Controller Pack | 2018
+Welcome to the Syrian Controller pack! The main sectorfile for controllers in the Syrian FIR. This controller pack was created from scratch by Chriss Klosowski (1306415). 
 
-Sector file for Syria at VATME. Compatible with the Euroscope radar client only. Not tested with VRC so it may or may not work with VRC.
+## Installation
 
-##Requirements
-The following program(s) are needed:
+* Euroscope 3.2 https://www.euroscope.hu/ *required* for plugins to work!
+Compatible with the Euroscope radar client only. Not tested with VRC so it may or may not work with VRC.
 
-* Euroscope: http://www.euroscope.hu/
+## Instructions
+The controller pack once downloaded from Github will come as Syria-master.rar extract the folder inside the archive to:
+* ……Documents\Euroscope\
+Installing it in the correct place will allow the profiles to properly load onto Euroscope. If not you will get errors stating that its not finding the correct directories of the settings, displays etc.. To make sure you’ve installed the Controller Pack correctly this is an example of the Iraqi Profile
+* ……Documents\Euroscope\Syria-master\Syria.prf
+This method is used to double check that this is in the correct directory. If you try to put it outside Documents\Euroscope\ none of the settings or displays as I said previously will work and you will be presented with a black screen with nothing showing up.
 
-##Instructions
-###First Time
-If this is the first time that you are downloading this sector file, please follow these instructions below
+1. Open Euroscope and choose a stations pre-confiqured profile.
+2. Browse to the folder where you extracted the zip file in step 3 and choose the .prf file for your position that you will control on.
+3. Euroscope will open the sector file.
+4. For a how-to on using Euroscope, please visit: http://www.euroscope.hu/Docs/EuroScope_in_30_minutes.pdf
 
-1. Download and install Euroscope from the link on the Requirements section above.
-2. Download the zip file of this sector file by clicking the Download Zip button on the right side.
-3. Extract the zip file anywhere on your computer.
-4. Open Euroscope and you will be asked to choose a Profile
-5. Browse to the folder where you extracted the zip file in step 3 and choose the OSTT.prf file
-6. Euroscope will open the sector file.
-7. For a how-to on using Euroscope, please visit: http://www.euroscope.hu/Docs/EuroScope_in_30_minutes.pdf
-
-###Updating AIRAC
-Updating the AIRAC is necessary as airport airways, fixes, SIDs, and STARs change from time to time. If you are simply updating the AIRAC on the sector file, follow the instructions below
-
-1. Download the zip file of this sector file by clicking the Download Zip button on the right side.
-2. Extract the zip file anywhere on your computer.
-3. Open the extracted files and copy the DataFiles folder, OSTT_official.ese, and OSTT_official.sct files and replace the same files in your current Syria folder.
-
-##Support
+## Support
 For support on sector files, contact the VATME Support Team at: http://support.vatme.net
 
 ***Sector files are property of VATSIM (www.vatsim.net) and VATME (www.vatme.net)***
